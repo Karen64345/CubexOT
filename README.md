@@ -1,56 +1,18 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/filmlane)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/filmlane?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/filmlane?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8)
-
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
-
-  <h2 align="center">Filmlane - Movie website</h2>
-
-Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-<a href="https://codewithsadee.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Filmlane Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Filmlane** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/filmlane.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+<Strong><b>Screenshot</b></Strong>
+<Strong>Homepage</Strong>
+![Homepage-remakesample01](https://github.com/user-attachments/assets/d76755d3-3765-4cd9-a46d-6897ace3283d)
+<Strong>Navbar</Strong>
+![Navbar-remakesample02](https://github.com/user-attachments/assets/c2993c20-b3e4-4338-bbe1-a931ec3a74e5)
+<Strong>Top Rated Nepali Movies</Strong>
+![movies](https://github.com/user-attachments/assets/7addf408-e3ce-4d6c-9314-734dc5f43724)
+<Strong>SearchBox</Strong>
+![SearchBox-remakesample03](https://github.com/user-attachments/assets/1559724a-3082-438f-bc8c-b29f50b3e751)
+<Strong>Services</Strong>
+![servicesremake](https://github.com/user-attachments/assets/255fd64e-72d0-4ad8-a17a-4dcfe6b3e6a1)
+<Strong>Series</Strong>
+![series](https://github.com/user-attachments/assets/55805f1d-0f7e-4356-b318-b5ad2696acfe)
+<Strong>About Us</Strong>
+![about us](https://github.com/user-attachments/assets/eeae8f04-be26-494c-b02a-9a10bf1132d0)
+<center><Strong>Demo</Strong>
+https://karen64345.github.io/CubexOT/
+</center>
