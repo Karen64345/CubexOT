@@ -11,8 +11,5 @@
 ![servicesremake](https://github.com/user-attachments/assets/255fd64e-72d0-4ad8-a17a-4dcfe6b3e6a1)
 <Strong>Series</Strong>
 ![series](https://github.com/user-attachments/assets/55805f1d-0f7e-4356-b318-b5ad2696acfe)
-<Strong>About Us</Strong>
-![about us](https://github.com/user-attachments/assets/eeae8f04-be26-494c-b02a-9a10bf1132d0)
-<center><Strong>Demo</Strong>
 https://karen64345.github.io/CubexOT/
 </center>
